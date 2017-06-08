@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f19fd369-a514-44f0-9426-5b92ad1829e1++4791",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f19fd369-a514-44f0-9426-5b92ad1829e1++4791" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f19fd369-a514-44f0-9426-5b92ad1829e1++4791" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C7BBED3A-76D5-4365-A80D-9B838C202785",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f19fd369-a514-44f0-9426-5b92ad1829e1++4791" : "%E7%A7%92%E6%92%AD%E5%8A%A8%E5%95%A6%E7%AD%89app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DynamicPicture",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "秒播\/DynamicPicture\/DynamicPicture.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.250\/MobileTerminal",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f19fd369-a514-44f0-9426-5b92ad1829e1++4791"
+    }
+  ]
+}

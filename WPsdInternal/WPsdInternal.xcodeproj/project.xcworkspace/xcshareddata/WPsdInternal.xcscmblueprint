@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "05b7cd61-add1-479f-8c70-c0e9e068221d++4318",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "05b7cd61-add1-479f-8c70-c0e9e068221d++4318" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05b7cd61-add1-479f-8c70-c0e9e068221d++4318" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6860795E-0511-4783-B6C1-CD6C12552AE2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05b7cd61-add1-479f-8c70-c0e9e068221d++4318" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WPsdInternal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WPsdInternal\/WPsdInternal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.250\/MobileLib",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05b7cd61-add1-479f-8c70-c0e9e068221d++4318"
+    }
+  ]
+}
